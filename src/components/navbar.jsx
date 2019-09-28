@@ -18,4 +18,4 @@ const NavBar = ({ totalCounters }) => {
     );
 }
 
-export default NavBar;
+export default NavBar; 
